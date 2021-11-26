@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prueba_Botones</string>
+    <string name="Standby">Standby</string>
+    <string name="Automatico">Automático</string>
+    <string name="mas10">+10</string>
+    <string name="mas1">+1</string>
+    <string name="menos10">-10</string>
+    <string name="menos1">-1</string>
+    <string name="cero">0</string>
+    <string name="login_string">+10</string>
+    <string name="standby">StandBy</string>
+    <string name="Manual">Manual</string>
+</resources>
